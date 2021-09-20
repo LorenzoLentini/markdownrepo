@@ -99,3 +99,7 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+### Some Emojis (supported by GithubFlavored Markdown)
+
+:octopus: :bamboo: :rice_scene:
