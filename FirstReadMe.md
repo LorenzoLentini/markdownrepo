@@ -1,8 +1,8 @@
-# THIS IS THE FIRST MARKDOWN FILE
+# _THIS IS THE FIRST MARKDOWN FILE_
 
 ---
 
-## This is a test
+## ~~This is a test~~
 
 ![matrix](https://www.telerama.fr/sites/tr_master/files/styles/simplecrop1000/public/73-matrixreloadedcode2jpg_0.jpg?itok=oJppbb7T)
 
