@@ -103,3 +103,7 @@ term
 ### Some Emojis (supported by GithubFlavored Markdown)
 
 :octopus: :bamboo: :rice_scene:
+
+### Mentions
+
+@LorenzoLentini
